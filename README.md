@@ -18,9 +18,11 @@
 
 <div>
 	Графические интерфейсы</div>
+ <div align="center"> 
  <img src="https://img.shields.io/badge/-WPF-00A0D7?style-for-the-badge&">
  <img src="https://img.shields.io/badge/-WinForms-0078D7?style-for-the-badge&">
  <img src="https://img.shields.io/badge/-Figma-BF0A30?style-for-the-badge&">
+ </div>
 
 
 <div>
