@@ -1,7 +1,11 @@
 ![Header](https://github.com/Todaydarya/Todaydarya/blob/main/image/Todaydarya.png)
 
 <h1 align="center">Привет! Меня зовут Дарья</h1>
-
+<div>
+	[![VKontakte](https://img.shields.io/badge/-VKontakte-0078D7?style-for-the-badge&logo-VK&)](https://vk.com/vasi_tyt)
+	[![Telegram](https://img.shields.io/badge/-Telegram-00A0D7?style-for-the-badge&logo-Telegram&)](https://t.me/Todaydarya)
+	[![Discord](https://img.shields.io/badge/-Discord-4CAF50?style-for-the-badge&Discord&)](https://discordapp.com/users/658399076299178036/)
+</div>
 <div>
 	Языки программирования</div>
 	![C#](https://img.shields.io/badge/-C%23-68217A?style-for-the-badge&)
@@ -25,11 +29,6 @@
 	![MongoDB](https://img.shields.io/badge/-MongoDB-4CAF50?style-for-the-badge&)
 
 
-<div>
-	Социальные сети</div>
-	[![VKontakte](https://img.shields.io/badge/-VKontakte-0078D7?style-for-the-badge&)](https://vk.com/vasi_tyt)
-	[![Telegram](https://img.shields.io/badge/-Telegram-00A0D7?style-for-the-badge&)](https://t.me/Todaydarya)
-	[![Discord](https://img.shields.io/badge/-Discord-4CAF50?style-for-the-badge&)](https://discordapp.com/users/658399076299178036/)
 
 
 <p>Обо мне</p>
