@@ -13,7 +13,7 @@
 	</a>
 </div>
 <div>Языки программирования</div>
-	<img src="https://img.shields.io/badge/-C%23-68217A?style-for-the-badge&">
+	<div><img src="https://img.shields.io/badge/-C%23-68217A?style-for-the-badge&"></div>
 <div>Графические интерфейсы</div>
 <div> 
 	<img src="https://img.shields.io/badge/-WPF-00A0D7?style-for-the-badge&">
@@ -21,7 +21,7 @@
 	<img src="https://img.shields.io/badge/-Figma-BF0A30?style-for-the-badge&">
 </div>
 <div>Языки запросов</div>
-	<img src="https://img.shields.io/badge/-TSQL-FFA500?style-for-the-badge&">
+	<div><img src="https://img.shields.io/badge/-TSQL-FFA500?style-for-the-badge&"></div>
 <div>Среда разработки</div>
 <div>
 	<img src="https://img.shields.io/badge/-VisualStudio-9457EB?style-for-the-badge&">
