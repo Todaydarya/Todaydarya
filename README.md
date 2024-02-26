@@ -15,27 +15,28 @@
 	<img src="https://img.shields.io/badge/Figma-BF0A30?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
 	</a>
 </div>
-<div>Языки программирования</div>
+<h3>Языки программирования</h3>
 	<div><img src="https://img.shields.io/badge/-C%23-68217A?style-for-the-badge&"></div>
-<div>Графические интерфейсы</div>
+<h3>Графические интерфейсы</h3>
 <div> 
 	<img src="https://img.shields.io/badge/-WPF-00A0D7?style-for-the-badge&">
 	<img src="https://img.shields.io/badge/-WinForms-0078D7?style-for-the-badge&">
 	<img src="https://img.shields.io/badge/-Figma-BF0A30?style-for-the-badge&">
 </div>
-<div>Языки запросов</div>
+<h3>Языки запросов</h3>
 	<div><img src="https://img.shields.io/badge/-TSQL-FFA500?style-for-the-badge&"></div>
-<div>Среда разработки</div>
+<h3>Среда разработки</h3>
 <div>
 	<img src="https://img.shields.io/badge/-VisualStudio-9457EB?style-for-the-badge&">
 	<img src="https://img.shields.io/badge/-SSMS-8B4513?style-for-the-badge&">
 	<img src="https://img.shields.io/badge/-MongoDB-4CAF50?style-for-the-badge&">	
 </div>
 
-<div>Обо мне</div>
+<h3>Обо мне</h3>
 Я программист с увлечением кросс-платформенной разработкой с использованием C# и технологий WPF. Мой профессиональный путь связан с разработкой пользовательских интерфейсов, а также работой с базами данных. Я увлечен тем, как программирование может преобразить и улучшить нашу повседневную жизнь, и стремлюсь к постоянному развитию и улучшению своих навыков. На GitHub я делюсь своими проектами, и всегда открыта для обсуждения и сотрудничества. Добро пожаловать в мой мир кода! 
 
-<p> Моя статистика
+<h3>Моя статистика</h3>
+<p align="center"> 
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Todaydarya&theme=github_dark">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Todaydarya&theme=github_dark">
 </p>
