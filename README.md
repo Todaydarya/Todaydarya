@@ -9,7 +9,7 @@
 	<img src="https://img.shields.io/badge/Telegram-00A0D7?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
 	</a>
 	<a href="https://discordapp.com/users/658399076299178036/">
-	<img src="https://img.shields.io/badge/Discord-00A0D7?style=for-the-badge&logo=vk&logoColor=white" alt="Discord">
+	<img src="https://img.shields.io/badge/Discord-00A0D7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 	</a>
 	<a href="https://discordapp.com/users/658399076299178036/">
 	<img src="https://img.shields.io/badge/Figma-BF0A30?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
