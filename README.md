@@ -2,7 +2,6 @@
 
 <h1 align="center">Привет! Меня зовут Дарья</h1>
 
----
 <h3>Социальные сети</h3>
 <div id="badges">
     <a href="https://t.me/Todaydarya" target="_blank">
@@ -18,7 +17,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Figma_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
   </div>
----
 
 <h3>Языки программирования</h3>
 	<div><img src="https://img.shields.io/badge/-C%23-68217A?style-for-the-badge&"></div>
