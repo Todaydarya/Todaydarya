@@ -1,4 +1,4 @@
-![Header](https://github.com/Todaydarya/Todaydarya/blob/main/image/Todaydarya.png)(https://t.me/Todaydarya)
+[![Header](https://github.com/Todaydarya/Todaydarya/blob/main/image/Todaydarya.png)](https://t.me/Todaydarya)
 
 <h1 align="center">Привет! Меня зовут Дарья</h1>
 <div align="center">
@@ -12,29 +12,23 @@
 	<img src="https://img.shields.io/badge/Discord-00A0D7?style=for-the-badge&logo=vk&logoColor=white" alt="Discord">
 	</a>
 </div>
-<div>
-	Языки программирования</div>
+<div>Языки программирования</div>
 	<img src="https://img.shields.io/badge/-C%23-68217A?style-for-the-badge&">
-
+<div>Графические интерфейсы</div>
+<div> 
+	<img src="https://img.shields.io/badge/-WPF-00A0D7?style-for-the-badge&">
+	<img src="https://img.shields.io/badge/-WinForms-0078D7?style-for-the-badge&">
+	<img src="https://img.shields.io/badge/-Figma-BF0A30?style-for-the-badge&">
+</div>
+<div>Языки запросов</div>
+	<img src="https://img.shields.io/badge/-TSQL-FFA500?style-for-the-badge&">
+<div>Среда разработки</div>
 <div>
-	Графические интерфейсы</div>
- <div align="center"> 
- <img src="https://img.shields.io/badge/-WPF-00A0D7?style-for-the-badge&">
- <img src="https://img.shields.io/badge/-WinForms-0078D7?style-for-the-badge&">
- <img src="https://img.shields.io/badge/-Figma-BF0A30?style-for-the-badge&">
- </div>
+	<img src="https://img.shields.io/badge/-VisualStudio-9457EB?style-for-the-badge&">
+	<img src="https://img.shields.io/badge/-SSMS-8B4513?style-for-the-badge&">
+	<img src="https://img.shields.io/badge/-MongoDB-4CAF50?style-for-the-badge&">	
+</div>
 
-
-<div>
-	Языки запросов</div>
- <img src="https://img.shields.io/badge/-TSQL-FFA500?style-for-the-badge&">
-
-
-<div>
-	Среда разработки</div>
- <img src="https://img.shields.io/badge/-VisualStudio-9457EB?style-for-the-badge&">
- <img src="https://img.shields.io/badge/-SSMS-8B4513?style-for-the-badge&">
- <img src="https://img.shields.io/badge/-MongoDB-4CAF50?style-for-the-badge&">
 
 
 
