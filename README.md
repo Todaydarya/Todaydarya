@@ -11,6 +11,9 @@
 	<a href="https://discordapp.com/users/658399076299178036/">
 	<img src="https://img.shields.io/badge/Discord-00A0D7?style=for-the-badge&logo=vk&logoColor=white" alt="Discord">
 	</a>
+	<a href="https://discordapp.com/users/658399076299178036/">
+	<img src="https://img.shields.io/badge/Figma-BF0A30?style=for-the-badge&logo=vk&logoColor=white" alt="Figma">
+	</a>
 </div>
 <div>Языки программирования</div>
 	<div><img src="https://img.shields.io/badge/-C%23-68217A?style-for-the-badge&"></div>
@@ -28,10 +31,6 @@
 	<img src="https://img.shields.io/badge/-SSMS-8B4513?style-for-the-badge&">
 	<img src="https://img.shields.io/badge/-MongoDB-4CAF50?style-for-the-badge&">	
 </div>
-
-
-
-
 
 <div>Обо мне</div>
 Я программист с увлечением кросс-платформенной разработкой с использованием C# и технологий WPF. Мой профессиональный путь связан с разработкой пользовательских интерфейсов, а также работой с базами данных. Я увлечен тем, как программирование может преобразить и улучшить нашу повседневную жизнь, и стремлюсь к постоянному развитию и улучшению своих навыков. На GitHub я делюсь своими проектами, и всегда открыта для обсуждения и сотрудничества. Добро пожаловать в мой мир кода! 
