@@ -1,6 +1,6 @@
 ![Header](https://github.com/Todaydarya/Todaydarya/blob/main/image/Todaydarya.png)
 
-<h1>Привет! Меня зовут Дарья</h1>
+<h1 align="center">Привет! Меня зовут Дарья</h1>
 
 <div>
 	Языки программирования</div>
