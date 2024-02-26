@@ -36,7 +36,7 @@
 <div>Обо мне</div>
 Я программист с увлечением кросс-платформенной разработкой с использованием C# и технологий WPF. Мой профессиональный путь связан с разработкой пользовательских интерфейсов, а также работой с базами данных. Я увлечен тем, как программирование может преобразить и улучшить нашу повседневную жизнь, и стремлюсь к постоянному развитию и улучшению своих навыков. На GitHub я делюсь своими проектами, и всегда открыта для обсуждения и сотрудничества. Добро пожаловать в мой мир кода! 
 
-<p align="center">
+<p align="center" margin="0 10">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Todaydarya&theme=github_dark">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Todaydarya&theme=github_dark">
 </p>
