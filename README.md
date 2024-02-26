@@ -5,7 +5,7 @@
 <h3>Социальные сети</h3>
 <div id="badges">
     <a href="https://t.me/Todaydarya" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://vk.com/vasi_tyt" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
@@ -14,7 +14,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
     <a href="https://discordapp.com/users/658399076299178036/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Figma_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Figma_logo_icon.svg/1024px-Figma_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
   </div>
 
