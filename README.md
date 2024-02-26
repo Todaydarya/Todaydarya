@@ -2,7 +2,8 @@
 
 <h1 align="center">Привет! Меня зовут Дарья</h1>
 
-###Социальные сети
+---
+<h3>Социальные сети</h3>
 <div id="badges">
     <a href="https://t.me/Todaydarya" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
@@ -13,10 +14,11 @@
     <a href="https://discordapp.com/users/658399076299178036/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
-<a href="https://discordapp.com/users/658399076299178036/" target="_blank">
+    <a href="https://discordapp.com/users/658399076299178036/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Figma_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
-</a>
+    </a>
   </div>
+---
 
 <h3>Языки программирования</h3>
 	<div><img src="https://img.shields.io/badge/-C%23-68217A?style-for-the-badge&"></div>
