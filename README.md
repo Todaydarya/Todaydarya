@@ -34,7 +34,6 @@
 
 <h3>Моя статистика</h3>
 <div align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Todaydayrya&theme=github_dark">
 	<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Todaydarya&layout=compact&theme=vision-friendly-dark" />
  
 </div>
