@@ -10,12 +10,6 @@
     <a href="https://vk.com/vasi_tyt" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
     </a>
-    <a href="https://discordapp.com/users/658399076299178036/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
-    </a>
-    <a href="https://github.com/Todaydarya" target="_blank">
-      <img src="https://www.flaticon.com/free-icon/figma_5968705?term=figma&page=1&position=2&origin=search&related_id=5968705" width="40" height="40" alt="Figma"/>
-    </a>
   </div>
 
 <h3>Языки программирования</h3>
