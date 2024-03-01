@@ -33,8 +33,7 @@
 Я программист с увлечением кросс-платформенной разработкой с использованием C# и технологий WPF. Мой профессиональный путь связан с разработкой пользовательских интерфейсов, а также работой с базами данных. Я увлечен тем, как программирование может преобразить и улучшить нашу повседневную жизнь, и стремлюсь к постоянному развитию и улучшению своих навыков. На GitHub я делюсь своими проектами, и всегда открыта для обсуждения и сотрудничества. Добро пожаловать в мой мир кода! 
 
 <h3>Моя статистика</h3>
-<div align="center">
-	<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Todaydarya&layout=compact&theme=vision-friendly-dark" />
- 
+<div align="left">
+	<img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Todaydarya&layout=compact&theme=vision-friendly-dark" />
 </div>
 
